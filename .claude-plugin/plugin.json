@@ -1,0 +1,11 @@
+{
+  "name": "skills",
+  "version": "0.0.1",
+  "description": "Daily-driver skills for Claude Code — URL reading, diagram drawing, LLM benchmarking, 3D scenes, chat demos, and more.",
+  "author": {
+    "name": "zhuguibiao"
+  },
+  "repository": "https://github.com/zhuguibiao/skills",
+  "license": "MIT",
+  "keywords": ["skills", "productivity", "ink-reader", "excalidraw", "threejs", "openrouter", "chainlit", "gemini", "frontend-slides", "ming-court-code", "cc-features"]
+}
