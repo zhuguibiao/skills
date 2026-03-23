@@ -1,5 +1,5 @@
 ---
-name: tooyoung:cc-features
+name: zhuguibiao:cc-features
 description: "Show Claude Code feature-level updates in Chinese. Fetch release notes, filter out bug fixes, present new features and improvements. Trigger: cc features, CC 新功能, CC 更新, what's new in CC"
 metadata:
   version: "1.1.0"

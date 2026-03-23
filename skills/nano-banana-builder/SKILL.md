@@ -1,5 +1,5 @@
 ---
-name: tooyoung:nano-banana-builder
+name: zhuguibiao:nano-banana-builder
 description: "Build full-stack web applications powered by Google Gemini's Nano Banana and Nano Banana Pro image generation APIs. Use when creating Next.js image generation apps, text-to-image tools, or iterative image editors. Trigger: image generation app, text to image, Gemini image, 图片生成, AI 生图, nano banana"
 metadata:
   version: "1.1.0"

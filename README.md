@@ -42,14 +42,15 @@ npx skills update
 
 ## 技能列表
 
-### 通用技能 (`tooyoung:`)
+### 通用技能 (`zhuguibiao:`)
 
 | 技能                | 命令                            | 描述                                       |
 | ------------------- | ------------------------------- | ------------------------------------------ |
-| cc-features         | `/tooyoung:cc-features`         | 查看 Claude Code 功能级更新速览（中文）    |
-| nano-banana-builder | `/tooyoung:nano-banana-builder` | 基于 Google Gemini API 构建图像生成应用    |
-| openclash-merger    | `/tooyoung:openclash-merger`    | 合并 OpenClash 订阅配置并生成分流规则      |
-| threejs-builder     | `/tooyoung:threejs-builder`     | 创建 Three.js 3D Web 应用                  |
+| cc-features         | `/zhuguibiao:cc-features`         | 查看 Claude Code 功能级更新速览（中文）    |
+| nano-banana-builder | `/zhuguibiao:nano-banana-builder` | 基于 Google Gemini API 构建图像生成应用    |
+| gh-star-list        | `/zhuguibiao:gh-star-list`        | 用 AI 自动将 GitHub Stars 分类整理到 Lists |
+| openclash-merger    | `/zhuguibiao:openclash-merger`    | 合并 OpenClash 订阅配置并生成分流规则      |
+| threejs-builder     | `/zhuguibiao:threejs-builder`     | 创建 Three.js 3D Web 应用                  |
 
 
 ## 项目结构
