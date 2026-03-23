@@ -19,7 +19,7 @@ Each skill lives in `skills/<skill-name>/` with:
 
 ```yaml
 ---
-name: tooyoung:skill-name
+name: zhuguibiao:skill-name
 description: "Single line description of what the skill does."
 compatibility: Optional environment requirements
 metadata:
